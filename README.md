@@ -53,7 +53,7 @@ Is an advanced save management mod for R.E.P.O. that gives you complete control 
 
 |Base Game (Default)| With NoSaveDelete Mod |
 |--|--|
-| ![Base](https://i.imgur.com/hgVUOtb.gif) | ![Mod](https://i.imgur.com/evCx8lL.gif) |
+| <img width="598" height="448" alt="425768005-f6d3bdd8-1b98-4f77-abbe-4576f712cdc0" src="https://github.com/user-attachments/assets/eac11931-6242-4848-b4d9-54502e5cd7ec" /> | <img width="598" height="448" alt="425767690-7e549fd7-ea0f-44ab-aa53-2cc960a05ad6" src="https://github.com/user-attachments/assets/ea60c971-7a07-4e1b-9777-fc5129d0e3af" /> |
 
 ## Installation
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) (v5.x) for R.E.P.O.
